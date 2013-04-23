@@ -1,7 +1,7 @@
 Documentation
 =============
 
-For all the jshinting.
+For all the jshinting we do.
 
 License
 =======
