@@ -21,7 +21,7 @@
 	"maxdepth": false,
 	"maxstatements": false,
 	"maxcomplexity": false,
-	"maxlen": 80,
+	"maxlen": 120,
 	"asi": false,
 	"boss": false,
 	"debug": false,
@@ -48,5 +48,6 @@
 	"nomen": true,
 	"onevar": false,
 	"passfail": false,
-	"white": true
+	"white": true,
+	"browser": true
 }
