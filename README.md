@@ -3,6 +3,13 @@ Documentation
 
 For all the jshinting we do.
 
+Installation and Use
+====================
+
+`npm install -g jshint`
+
+There's [a plugin for your text editor](http://www.jshint.com/install/) to use JSHint inline. Set it up!
+
 License
 =======
 
