@@ -6,7 +6,7 @@ For all the jshinting we do.
 License
 =======
 
-Copyright (c) 2012 AOL, Inc.
+Copyright (c) 2014 AOL, Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
