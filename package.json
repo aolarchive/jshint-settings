@@ -1,0 +1,22 @@
+{
+  "name": "jshint-settings",
+  "version": "1.0.0",
+  "description": "Standard JSHint Settings",
+  "main": ".jshintrc",
+  "scripts": {
+    "test": "echo \"Error: how would we test a .jshintrc file?\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aol/jshint-settings"
+  },
+  "keywords": [
+    "jshint"
+  ],
+  "author": "Nate Eagle <nate@nateeagle.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aol/jshint-settings/issues"
+  },
+  "homepage": "https://github.com/aol/jshint-settings"
+}
