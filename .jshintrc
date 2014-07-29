@@ -6,7 +6,7 @@
 	"forin": true,
 	"freeze": true,
 	"immed": true,
-	"latedef": true,
+	"latedef": "nofunc",
 	"maxlen": 120,
 	"maxparams": 4,
 	"noarg": true,
