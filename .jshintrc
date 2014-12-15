@@ -16,7 +16,7 @@
 	"quotmark": true,
 	"strict": "single",
 	"undef": true,
-	"unused": true,
+	"unused": "vars",
 
 	"browser": true,
 	"devel": true,
